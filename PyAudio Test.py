@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 28 13:40:01 2020
 
-@author: Danny
+@author: rubberducky56
 """
 
 import pyaudio
